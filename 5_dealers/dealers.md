@@ -2,15 +2,15 @@
 
 ## Москва и Московская область
 
-![124620866_1257600417950211_4967244202596913570_n](../../../../../../Downloads/124620866_1257600417950211_4967244202596913570_n.jpg)
+![124620866_1257600417950211_4967244202596913570_n](../2_images/124620866_1257600417950211_4967244202596913570_n.jpg)
 
 В столичном регионе страны расположено девять дилерских центров.
 
 ### Авилон, Коммерческий проезд, 10
 140053 Котельники
 
-[Связаться по электронной почте](mailto:info_bd@bmw-avilon.ru)
-[Посетите веб-сайт дилера](http://www.mini-avilon.ru)
+[info_bd@bmw-avilon.ru](mailto:info_bd@bmw-avilon.ru)
+[mini-avilon.ru](http://www.mini-avilon.ru)
 
 Предлагаемые услуги:
 
@@ -19,14 +19,14 @@
 
 ### БорисХоф, 29 км. МКАД
 
-![163538139_105806858270373_6902420017803866117_n](../../../../../../Downloads/163538139_105806858270373_6902420017803866117_n.jpg)
+![163538139_105806858270373_6902420017803866117_n](../2_images/163538139_105806858270373_6902420017803866117_n.jpg)
 
 БорисХоф MINI - лучший дилер в маркетинговой номинации «Digital-экспериментатор» ⠀ по итогам 2020 года. Также БорисХоф уже седьмой год является лидером по объёму продаж MINI в России.
 
 142718 Москва
 
-[Связаться по электронной почте](mailto:info@bmw-borishof.ru)
-[Посетите веб-сайт дилера](https://www.mini-borishof.ru/?utm_source=oem&utm_medium=cpc&utm_campai)
+[info@bmw-borishof.ru](mailto:info@bmw-borishof.ru)
+[mini-borishof.ru](https://www.mini-borishof.ru/?utm_source=oem&utm_medium=cpc&utm_campai)
 
 Предлагаемые услуги:
 
@@ -36,8 +36,8 @@
 ### Автодом, Киевское шоссе, вл. 15
 108811 Москва
 
-[Связаться по электронной почте](mailto:info@mini-vnukovo.ru)
-[Посетите веб-сайт дилера](http://www.mini-vnukovo.ru)
+[info@mini-vnukovo.ru](mailto:info@mini-vnukovo.ru)
+[mini-vnukovo.ru](http://www.mini-vnukovo.ru)
 
 Предлагаемые услуги:
 
@@ -47,8 +47,8 @@
 ### Автодом, 51-й км МКАД
 143085 Москва
 
-[Связаться по электронной почте](mailto:info@avtodom.ru)
-[Посетите веб-сайт дилера](http://www.mini-avtodom.ru)
+[info@avtodom.ru](mailto:info@avtodom.ru)
+[mini-avtodom.ru](http://www.mini-avtodom.ru)
 
 Предлагаемые услуги:
 
@@ -57,12 +57,12 @@
 
 ### Автодом, Зорге 17
 
-![176478302_801346897453217_7449828312997382990_n](../../../../../../Downloads/176478302_801346897453217_7449828312997382990_n.jpg)
+![176478302_801346897453217_7449828312997382990_n](../2_images/176478302_801346897453217_7449828312997382990_n.jpg)
 
 125252 Москва
 
-[Связаться по электронной почте](mailto:info@avtodom.ru)
-[Посетите веб-сайт дилера](http://www.mini-avtodom.ru)
+[info@avtodom.ru](mailto:info@avtodom.ru)
+[mini-avtodom.ru](http://www.mini-avtodom.ru)
 
 Предлагаемые услуги
 
@@ -72,8 +72,8 @@
 ### Авилон, Волгоградский проспект, д.41, стр.1
 109316 Москва
 
-[Связаться по электронной почте](mailto:info@bmw-avilon.ru)
-[Посетите веб-сайт дилера](http://www.mini-avilon.ru)
+[info@bmw-avilon.ru](mailto:info@bmw-avilon.ru)
+[mini-avilon.ru](http://www.mini-avilon.ru)
 
 Предлагаемые услуги:
 
@@ -84,8 +84,8 @@
 ### Борисхоф, Котельническая набережная, 31
 115172 Москва
 
-[Связаться по электронной почте](mailto:info@mini-borishof.ru)
-[Посетите веб-сайт дилера](https://www.mini-borishof.ru/?utm_source=oem&utm_medium=cpc&utm_campai)
+[info@mini-borishof.ru](mailto:info@mini-borishof.ru)
+[mini-borishof.ru](https://www.mini-borishof.ru/?utm_source=oem&utm_medium=cpc&utm_campai)
 
 Предлагаемые услуги:
 
@@ -94,8 +94,8 @@
 ### Автопорт, Пятницкое ш., 6 км
 143442 Москва
 
-[Связаться по электронной почте](mailto:info@bmw-avtoport.ru)
-[Посетите веб-сайт дилера](http://www.mini-avtoport.ru)
+[info@bmw-avtoport.ru](mailto:info@bmw-avtoport.ru)
+[mini-avtoport.ru](http://www.mini-avtoport.ru)
 
 Предлагаемые услуги:
 
@@ -105,8 +105,8 @@
 ### Авто-Авангард, Новорижское ш.
 143420 Москва
 
-[Связаться по электронной почте](mailto:info@bmw-avangard.ru)
-[Посетите веб-сайт дилера](http://www.mini-avangard.ru)
+[info@bmw-avangard.ru](mailto:info@bmw-avangard.ru)
+[mini-avangard.ru](http://www.mini-avangard.ru)
 
 Предлагаемые услуги:
 
@@ -121,8 +121,8 @@
 ### Евросиб, наб. Обводного канала 72 стр 1
 192007 Санкт-Петербург
 
-[Связаться по электронной почте](mailto:crm@bmw-eurosib.ru)
-[Посетите веб-сайт дилера](http://www.mini-eurosib.ru)
+[crm@bmw-eurosib.ru](mailto:crm@bmw-eurosib.ru)
+[mini-eurosib.ru](http://www.mini-eurosib.ru)
 
 Предлагаемые услуги:
 
@@ -133,8 +133,8 @@
 ### Аксель-Моторс Север, Кушелевская дорога д. 14
 195220 Санкт-Петербург
 
-[Связаться по электронной почте](mailto:sales@bmw-axsel.ru)
-[Посетите веб-сайт дилера](http://www.mini-axsel.ru)
+[sales@bmw-axsel.ru](mailto:sales@bmw-axsel.ru)
+[mini-axsel.ru](http://www.mini-axsel.ru)
 
 Предлагаемые услуги:
 
@@ -144,8 +144,8 @@
 ### Евросиб Лахта, ул. Савушкина 112, корп. 2
 197374 Санкт-Петербург
 
-[Связаться по электронной почте](mailto:info@bmw-lahta.ru)
-[Посетите веб-сайт дилера](http://www.mini-lahta.ru)
+[info@bmw-lahta.ru](mailto:info@bmw-lahta.ru)
+[www.mini-lahta.ru](http://www.mini-lahta.ru)
 
 Предлагаемые услуги:
 
@@ -156,12 +156,12 @@
 
 MINI АВТОДОМ Санкт-Петербург стал лучшим дилером MINI в России по итогам 2020 года!
 
-![159658115_266067858388653_5083103643407664438_n](../../../../../../Downloads/159658115_266067858388653_5083103643407664438_n.jpg)
+![159658115_266067858388653_5083103643407664438_n](../2_images/159658115_266067858388653_5083103643407664438_n.jpg)
 
 196210 Санкт-Петербург
 
-[Связаться по электронной почте](mailto:infospb@bmw-avtodom.ru)
-[Посетите веб-сайт дилера](http://www.mini-avtodom.ru)
+[infospb@bmw-avtodom.ru](mailto:infospb@bmw-avtodom.ru)
+[mini-avtodom.ru](http://www.mini-avtodom.ru)
 
 Предлагаемые услуги:
 
@@ -174,8 +174,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 Московский проспект, 203а
 236006 Калининград
 
-[Связаться по электронной почте](mailto:info@bmw-rusmotors.ru)
-[Посетите веб-сайт дилера](http://www.bmw-rusmotors.ru)
+[info@bmw-rusmotors.ru](mailto:info@bmw-rusmotors.ru)
+[bmw-rusmotors.ru](http://www.bmw-rusmotors.ru)
 
 Предлагаемые услуги:
   - Сервис
@@ -183,8 +183,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 ### АврораАвто, Белгород
 ул. Студенческая 1-Т
 308023 Белгород
-[Связаться по электронной почте](mailto:info@bmw-avroraavto.ru)
-[Посетите веб-сайт дилера](http://www.bmw-avroraavto.ru)
+[info@bmw-avroraavto.ru](mailto:info@bmw-avroraavto.ru)
+[bmw-avroraavto.ru](http://www.bmw-avroraavto.ru)
 Предлагаемые услуги:
 
   - Сервис
@@ -193,8 +193,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 Проспект Шолохова 253
 344009 Ростов-на-Дону
 
-[Связаться по электронной почте](mailto:info@bmw-armada.ru)
-[Посетите веб-сайт дилера](http://www.mini-armada.ru)
+[info@bmw-armada.ru](mailto:info@bmw-armada.ru)
+[www.mini-armada.ru](http://www.mini-armada.ru)
 
 Предлагаемые услуги:
 
@@ -205,8 +205,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 Дзержинского, 231Б
 350005 Краснодар
 
-[Связаться по электронной почте](mailto:info@bmw-atlas.ru)
-[Посетите веб-сайт дилера](http://www.mini-atlas.ru)
+[info@bmw-atlas.ru](mailto:info@bmw-atlas.ru)
+[www.mini-atlas.ru](http://www.mini-atlas.ru)
 
 Предлагаемые услуги:
 
@@ -217,8 +217,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 Транспортная, 46
 354002 Сочи
 
-[Связаться по электронной почте](mailto:info@bmw-atlas.ru)
-[Посетите веб-сайт дилера](http://www.mini-atlas.ru)
+[info@bmw-atlas.ru](mailto:info@bmw-atlas.ru)
+[www.mini-atlas.ru](http://www.mini-atlas.ru)
 
 Предлагаемые услуги:
 
@@ -228,8 +228,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 ул. Ибрагимова, 48
 420066 Казань
 
-[Связаться по электронной почте](mailto:info@mini-tts.ru)
-[Посетите веб-сайт дилера](http://www.mini-tts.ru)
+[info@mini-tts.ru](mailto:info@mini-tts.ru)
+[www.mini-tts.ru](http://www.mini-tts.ru)
 
 Предлагаемые услуги:
 
@@ -240,8 +240,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 Проспект Салавата Юлаева 95
 450057 Уфа
 
-[Связаться по электронной почте](mailto:ufa@bmw-tts.ru)
-[Посетите веб-сайт дилера](http://www.bmw-tts.ru)
+[ufa@bmw-tts.ru](mailto:ufa@bmw-tts.ru)
+[bmw-tts.ru](http://www.bmw-tts.ru)
 
 Предлагаемые услуги:
 
@@ -251,8 +251,8 @@ MINI АВТОДОМ Санкт-Петербург стал лучшим диле
 ул. Братьев Кашириных, д.139
 454128 Челябинск
 
-[Связаться по электронной почте](mailto:info@bmw-mservice.ru)
-[Посетите веб-сайт дилера](http://www.bmw-mservice.ru)
+[info@bmw-mservice.ru](mailto:info@bmw-mservice.ru)
+[bmw-mservice.ru](http://www.bmw-mservice.ru)
 
 Предлагаемые услуги:
 
